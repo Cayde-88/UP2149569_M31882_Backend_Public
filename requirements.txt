@@ -1,0 +1,11 @@
+aiohttp==3.8.1
+alpaca-trade-api==3.0.0
+beautifulsoup4==4.11.1
+Nasdaq-Data-Link==1.0.4
+numpy==1.23.5
+pandas==1.5.3
+pandas-market-calendars==4.1.4
+PyMySQL==1.0.3
+schedule==1.2.0
+SQLAlchemy==1.4.39
+yfinance==0.2.20

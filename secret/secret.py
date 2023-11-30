@@ -1,0 +1,5 @@
+host = '0.0.0.0'
+database = 'yourdbname'
+user = 'yourdbusername'
+password =  'yourdbpassword'
+em_pw = 'youremailapplicationpassword'
